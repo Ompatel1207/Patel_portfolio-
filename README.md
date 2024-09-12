@@ -1,7 +1,5 @@
 # Om Patel's Portfolio
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Portfolio)
-
 ## 🎓 Credentials
 - **Name:** Om Patel
 - **Graduation Year:** 2025
