@@ -1,4 +1,4 @@
-# Om Patel's Portfolio
+# Patel's Portfolio
 
 ## 🎓 Credentials
 - **Name:** Om Patel
