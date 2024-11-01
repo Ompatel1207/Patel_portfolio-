@@ -69,3 +69,26 @@ Hello! I'm Om Patel, a dedicated computer science student passionate about AI en
   
 ## 🤝 Connect with Me
 [LinkedIn](https://linkedin.com/in/om-patel) | [Email](opatel@saintpeters.edu)
+
+# DATA GEMS
+
+<img width="200" height="200" alt="Screenshot 2024-10-31 at 11 42 33 AM" src="https://github.com/user-attachments/assets/95d9c25b-848b-4b9f-be7c-15e9bb8b8e06">
+
+This Data Gem offered a valuable opportunity to explore the distribution and characteristics of the foreign-born population in the United States using interactive visualizations. By examining where this population lives and how migration patterns have shifted over the past decade, I gained a deeper understanding of the changing demographics at national, state, and county levels.
+
+
+<img width="200" height="200" alt="Screenshot 2024-11-01 at 1 55 59 AM" src="https://github.com/user-attachments/assets/bb8f4023-d132-4f2d-9208-014289ba4795">
+
+In this Data Gem, I gained a practical understanding of how to access and interpret key economic data from the Economic Census and the Annual Business Survey. Through a short video tutorial, I learned how to navigate data.census.gov to find Economic Census data, which provides a foundational look at the economic landscape.
+
+
+<img width="200" height="200" alt="Screenshot 2024-11-01 at 2 02 21 AM" src="https://github.com/user-attachments/assets/47389f1b-9749-40c0-bf55-da250b89a3c0">
+
+In this Data Gem, I explored the powerful capabilities of the International Database (IDB) for comparing global demographic data. The IDB allowed me to answer fascinating questions about population density, age distribution, and longevity worldwide. Using this tool, I discovered how to identify some of the most densely populated regions globally, understand which countries have the most youthful populations, and see where people enjoy the longest life expectancies.
+
+
+<img width="200" height="200" alt="Screenshot 2024-11-01 at 2 07 03 AM" src="https://github.com/user-attachments/assets/630390d2-7261-4c74-9c07-8e1c97e1bd4a">
+
+
+This Data Gem provided a comprehensive guide on how to analyze and visualize local workforce and employment data through area profiling, multi-year analysis, and comparative tools. By creating an area profile for a selected region, I learned how to compile key data on workforce trends, such as the local employment rates and occupational characteristics. This process proved especially useful for understanding the economic landscape of a specific area over time and spotting trends in employment and industry growth.
+
