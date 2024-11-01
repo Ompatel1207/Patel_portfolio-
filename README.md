@@ -92,6 +92,6 @@ In this Data Gem, I explored the powerful capabilities of the International Data
 
 This Data Gem provided a comprehensive guide on how to analyze and visualize local workforce and employment data through area profiling, multi-year analysis, and comparative tools. By creating an area profile for a selected region, I learned how to compile key data on workforce trends, such as the local employment rates and occupational characteristics. This process proved especially useful for understanding the economic landscape of a specific area over time and spotting trends in employment and industry growth.
 
-<img width="450" alt="Screenshot 2024-11-01 at 2 18 08 AM" src="https://github.com/user-attachments/assets/5519df40-b70a-4809-b52b-9a52fadfddc2">
+<img width="200" height="200" alt="Screenshot 2024-11-01 at 2 18 08 AM" src="https://github.com/user-attachments/assets/5519df40-b70a-4809-b52b-9a52fadfddc2">
 
 In this Data Gem, I learned to track international trade commodities over time with the USA Trade Online tool, a powerful resource for examining U.S. import and export data. This tutorial introduced me to the basics of accessing and analyzing trade information, allowing me to gain insights into trade flows between the U.S. and other countries. With USA Trade Online, I discovered how to explore specific commodities and track trends, offering a valuable perspective on how various industries contribute to international trade.
